@@ -44,10 +44,10 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">@@@@##@%@@@%@:-:..........+@@@@*#%#@#@@@@@</tspan>
 </text>
 <text x="410" y="30" fill="#c9d1d9">
-<tspan x="410" y="30">andrew@grant</tspan> -———————————————————————————————————————————-—-
-<tspan x="410" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Windows 10, Android 14, Linux</tspan>
-<tspan x="410" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
-<tspan x="410" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">TTM Technologies, Inc.</tspan>
+<tspan x="430" y="30">samarth@gupta</tspan> -———————————————————————————————————————————-—-
+<tspan x="410" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Linux, Android 15, Windows 11</tspan>
+<tspan x="410" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
+<tspan x="410" y="90" class="cc">. </tspan><tspan class="key">Institute</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">IIT Roorkee</tspan>
 <tspan x="410" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">CAM (Computer Aided Manufacturing) Operator</tspan>
 <tspan x="410" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">IDEA 2023.3.2, VSCode 1.96.0</tspan>
 <tspan x="410" y="150" class="cc">. </tspan>
