@@ -33,7 +33,7 @@ jobs:
       - name: Commit
         run: |-
           git add .
-          git diff
+          
           git config --global user.email "github-actions-bot@samarthgupta128.github.io"
           git config --global user.name "samarthgupta128/GitHub-Actions-Bot"
           git commit -m "Updated README" -a || echo "No changes to commit"
