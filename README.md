@@ -1,3 +1,4 @@
+## Hi there 👋
 <a href="https://github.com/samarthgupta128/samarthgupta128">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarthgupta128/samarthgupta128/main/dark_mode.svg">
@@ -7,7 +8,7 @@
 
 <!--
 **samarthgupta128/samarthgupta128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Hi there 👋
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
