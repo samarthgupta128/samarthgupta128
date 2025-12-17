@@ -1,8 +1,13 @@
-## Hi there 👋
+<a href="https://github.com/Andrew6rant/Andrew6rant">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
+    <img alt="Andrew Grant's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  </picture>
+</a>
 
 <!--
 **samarthgupta128/samarthgupta128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
