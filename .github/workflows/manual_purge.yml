@@ -1,0 +1,13 @@
+name: Purge README Image Cache
+on:
+  push:
+    branches:
+      - main  # Runs whenever you push new changes
+  workflow_dispatch: # Allows you to run it manually from the "Actions" tab
+
+jobs:
+  purge-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Camo Cache
+        uses: kevincobain2000/action-camo-purge@v1
